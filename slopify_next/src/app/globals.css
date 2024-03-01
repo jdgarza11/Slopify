@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@600&family=Pixelify+Sans&family=Roboto+Slab:wght@100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto Slab;
+}
+
+html{
+    background-color: #171717;
+
+}

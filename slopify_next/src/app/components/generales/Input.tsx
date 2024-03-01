@@ -1,10 +1,10 @@
 import React from 'react'
-import "./Input.css"
+import "../../styles/Input.css"
 
 function Input(prop: {placeholder: string}) {
   return (
     <div className='global-input'>
-        <input type="text" placeholder={prop.placeholder} className="input" />
+        <input type="text" placeholder={prop.placeholder} className="main-input" />
     </div>
   )
 }
