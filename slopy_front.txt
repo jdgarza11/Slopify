@@ -1,0 +1,10 @@
+Colores:
+    Negro: #171717
+    Rojo: #CB4335
+    GrisClaro: #ECF0F1
+
+Fuente:
+    Roboto Slab: 
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@600&family=Pixelify+Sans&family=Roboto+Slab:wght@100..900&display=swap')
+    </style>

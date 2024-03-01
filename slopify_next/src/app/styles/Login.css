@@ -1,0 +1,37 @@
+.bubble-login{
+    background-color: #CB4335;
+    border-radius: 10px;
+    width: 390px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    box-shadow: 0px 0px 50px 0px #ffffff38;
+}
+
+.header-login{
+    font-size: 30px;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+
+.line-inputs{
+    width: 300px;
+}
+
+.forgot-password{
+    color: #ECF0F1;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.forgot-password:hover{
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: underline;
+}
