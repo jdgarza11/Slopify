@@ -2,6 +2,8 @@ Sign up POST que envie correo, nimbre, contraseña e imagen, para la creacion de
 
 Log in GET que reciba los datos de la cuenta y compare contraseñas para iniciar sesion (correo, contraseña)
 
+HOME
+
 Pagina de inicio GET que reciba artistas para recomendar en el home (correo_cuenta, correo nombre e imagen de artistas)
 
 ARTISTA

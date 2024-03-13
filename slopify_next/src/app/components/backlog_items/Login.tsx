@@ -12,7 +12,9 @@ function Login() {
               <Input placeholder='Email'/>
               <Input placeholder='Password'/>
             </div>
-            <p className='forgot-password'>Forgot your password?</p>
+            <button className='login-button'>Login</button>
+            <a className='forgot-password'>Forgot your password?</a>
+            <a href='/signin' className='forgot-password'>Create a Count</a>
         </div>
         
     </div>
