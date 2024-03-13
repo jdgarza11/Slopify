@@ -1,6 +1,9 @@
 import Image from "next/image";
 import React, { useEffect, useState } from 'react';
 
+import Login from "./components/paginas/Login";
+import "./Page.css"
+
 export default function Home() {
   const [message, setMessage] = useState('');
 
@@ -11,9 +14,9 @@ export default function Home() {
   }, []);
 
   return (
-    <div>
-      <h1>Front-End con Next.js y TypeScript</h1>
-      <p>{message}</p>
-    </div>
-  );
+    <main className="page_main">
+      <br/>
+      <Login/>
+    </main>
+  )
 }
